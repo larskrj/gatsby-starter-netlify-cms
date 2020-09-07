@@ -10,14 +10,16 @@ tags:
   - flavor
   - tasting
 ---
-## `Dette er en test`
+## Dette er en test
 
 **Bold *Italic***
 
-***`Hva er dette?`***
 
-* ***`Liste`***
 
+***Liste:***
+
+* 1
+* 2
 
 
 ![flavor wheel ](/img/flavor_wheel.jpg)
